@@ -1,0 +1,250 @@
+{
+    "title": "SnowX Featured",
+    "version": "1658500881",
+    "chainId": 4,
+    "whatsnew": "Featued test",
+    "collections": [
+        {
+            "collection": {
+                "title": "SnowX Featured",
+                "cover": "url",
+                "icon": "url"
+            },
+            "artworks": [
+                {
+                    "id": "0x619cd82E864Ebc7Ae759207C0B19e98774246449-1",
+                    "title": "Mazikeen",
+                    "description": "This piece is based on a demon from mythology and comics I've read. It represents a deformed angel that intends to only harm others.",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x619cd82e864ebc7ae759207c0b19e98774246449/1-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x619cd82e864ebc7ae759207c0b19e98774246449/1-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Tychozorente",
+                        "icon": "https://nfts.snowx.com/0x619cd82e864ebc7ae759207c0b19e98774246449/icon"
+                    },
+                    "owner": {
+                        "name": "0xd2B08A58cD3e7cfC5788122D802Ca65d4F9440B1"
+                    },
+                    "attributes": null,
+                    "price": "0.1",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a000000000000000000000000619cd82e864ebc7ae759207c0b19e987742464490000000000000000000000000000000000000000000000000000000000000001",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 100000000000000000
+                    }
+                },
+                {
+                    "id": "0xf8F720207E99003Eb72Edd883AAD613a493454dE-2",
+                    "title": "Dragon knight lady",
+                    "description": "Dragon Knight Lady",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0xf8f720207e99003eb72edd883aad613a493454de/2-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0xf8f720207e99003eb72edd883aad613a493454de/2-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "YAMAKEI",
+                        "icon": "https://nfts.snowx.com/0xf8f720207e99003eb72edd883aad613a493454de/icon"
+                    },
+                    "owner": {
+                        "name": "0xC9361824A434dDE9A4D78E3584be9A1c66f74166"
+                    },
+                    "attributes": null,
+                    "price": "0.6",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a000000000000000000000000f8f720207e99003eb72edd883aad613a493454de0000000000000000000000000000000000000000000000000000000000000002",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 600000000000000000
+                    }
+                },
+                {
+                    "id": "0x513a22DA8D28B599BFbAeB7D980f467580fB40E8-1",
+                    "title": "Octopus",
+                    "description": "Purple gems and octopus shining in the deep sea",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x513a22da8d28b599bfbaeb7d980f467580fb40e8/1-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x513a22da8d28b599bfbaeb7d980f467580fb40e8/1-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "SaRaN",
+                        "icon": "https://nfts.snowx.com/0x513a22da8d28b599bfbaeb7d980f467580fb40e8/icon"
+                    },
+                    "owner": {
+                        "name": "0x93fA4e6b7d6f747d3F0a5b64f5A9C76a8A0Ef45d"
+                    },
+                    "attributes": null,
+                    "price": "0.2",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a000000000000000000000000513a22da8d28b599bfbaeb7d980f467580fb40e80000000000000000000000000000000000000000000000000000000000000001",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 200000000000000000
+                    }
+                },
+                {
+                    "id": "0x30195AA11718B2DE338F5b126890303809d94Ba2-5",
+                    "title": "Vanitas",
+                    "description": "Vanitas is about the drama of masks, games and aesthetic. As an Art NFT creator I flow between different platforms often with in the space of seconds. One moment I am in VR creating, next I am in Unity filming, all the whilst navigating between instagram and twitter as fast as my eyes can blink. Every space has its own aesthetic demands, and technique and my creative challenge is to love the performance. In the end, it all comes down to the Art itself (and whether the internet will exist for eternity)",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x30195aa11718b2de338f5b126890303809d94ba2/5-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x30195aa11718b2de338f5b126890303809d94ba2/5-thumbnail.gif"
+                    },
+                    "creator": {
+                        "name": "Vaidehi Ozymandias Bhargava",
+                        "icon": "https://nfts.snowx.com/0x30195aa11718b2de338f5b126890303809d94ba2/icon"
+                    },
+                    "owner": {
+                        "name": "0x6134B2D1b87E10c7e21CdfCc4092F5Aa1B6Aba93"
+                    },
+                    "attributes": null,
+                    "price": "0.15",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a00000000000000000000000030195aa11718b2de338f5b126890303809d94ba20000000000000000000000000000000000000000000000000000000000000005",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 150000000000000000
+                    }
+                },
+                {
+                    "id": "0xC8dF38F44fa47d2403698B41Fc8feFDf271581C5-4",
+                    "title": "ETH 2 Purple",
+                    "description": "Stylized variation of the Ethereum symbol in purple by Bård Ionson",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0xc8df38f44fa47d2403698b41fc8fefdf271581c5/4-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0xc8df38f44fa47d2403698b41fc8fefdf271581c5/4-thumbnail.gif"
+                    },
+                    "creator": {
+                        "name": "Bård Ionson",
+                        "icon": "https://nfts.snowx.com/0xc8df38f44fa47d2403698b41fc8fefdf271581c5/icon"
+                    },
+                    "owner": {
+                        "name": "0x01cB023186CAB05220554EE75b4D69921DD051f1"
+                    },
+                    "attributes": null,
+                    "price": "0.1",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a000000000000000000000000c8df38f44fa47d2403698b41fc8fefdf271581c50000000000000000000000000000000000000000000000000000000000000004",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 100000000000000000
+                    }
+                },
+                {
+                    "id": "0xfD50f76fe6198c3285335FA9ba631de4677175A0-2",
+                    "title": "Goseokjeong",
+                    "description": "This place is not only beautiful with strange rocks and carved cliffs, but also has a natural white sand field that is rare in the valley.\nExpress Korea's nature in virtual reality with ink landscape painting techniques.\nThe artwork was completed using the Tilt Brush app.",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0xfd50f76fe6198c3285335fa9ba631de4677175a0/2-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0xfd50f76fe6198c3285335fa9ba631de4677175a0/2-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Suk",
+                        "icon": "https://nfts.snowx.com/0xfd50f76fe6198c3285335fa9ba631de4677175a0/icon"
+                    },
+                    "owner": {
+                        "name": "0xB761A31068abE9893d63198E7812E44cf8a698ec"
+                    },
+                    "attributes": null,
+                    "price": "0.1",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a000000000000000000000000fd50f76fe6198c3285335fa9ba631de4677175a00000000000000000000000000000000000000000000000000000000000000002",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 100000000000000000
+                    }
+                },
+                {
+                    "id": "0x72E6F43d169cE21434e024D08dC1785481e4e460-2",
+                    "title": "The Doko Doko Laundromat",
+                    "description": "Where on earth are we?\nThere is a Doko Doko Laundromathe at the edge of the universe.\nEveryone is washing something.\n\n\nOpen brush\n2022",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x72e6f43d169ce21434e024d08dc1785481e4e460/2-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x72e6f43d169ce21434e024d08dc1785481e4e460/2-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "TOUNNE",
+                        "icon": "https://nfts.snowx.com/0x72e6f43d169ce21434e024d08dc1785481e4e460/icon"
+                    },
+                    "owner": {
+                        "name": "0xe054c0C913AAfc6a6755E7C25d01F98137C7dBD6"
+                    },
+                    "attributes": null,
+                    "price": "0.3",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a00000000000000000000000072e6f43d169ce21434e024d08dc1785481e4e4600000000000000000000000000000000000000000000000000000000000000002",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 300000000000000000
+                    }
+                },
+                {
+                    "id": "0x5115a427D30A3393206449C1E71eb844c985BC97-1",
+                    "title": "Crypto Cathedral",
+                    "description": "Come and visit the Crypto Cathedral, enjoy your spiritual wealth.",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x5115a427d30a3393206449c1e71eb844c985bc97/1-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x5115a427d30a3393206449c1e71eb844c985bc97/1-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Rein Bijlsma",
+                        "icon": "https://nfts.snowx.com/0x5115a427d30a3393206449c1e71eb844c985bc97/icon"
+                    },
+                    "owner": {
+                        "name": "0x36cCd06409AF10c557642836e490778B1A001C95"
+                    },
+                    "attributes": null,
+                    "price": "0.2",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a0000000000000000000000005115a427d30a3393206449c1e71eb844c985bc970000000000000000000000000000000000000000000000000000000000000001",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 200000000000000000
+                    }
+                },
+                {
+                    "id": "0x2B1dA4378D35d3cBd909Ba41B4bfEDAe0A543Aad-1",
+                    "title": "Mosaika ",
+                    "description": "Representation of the feminine energy.",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x2b1da4378d35d3cbd909ba41b4bfedae0a543aad/1-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x2b1da4378d35d3cbd909ba41b4bfedae0a543aad/1-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Neosutras",
+                        "icon": "https://nfts.snowx.com/0x2b1da4378d35d3cbd909ba41b4bfedae0a543aad/icon"
+                    },
+                    "owner": {
+                        "name": "0xe75eDD240A14D0DCBD5C0ec1aBe062A2222993A8"
+                    },
+                    "attributes": null,
+                    "price": "0.15",
+                    "priceType": "ETH",
+                    "purchaseTransactionData": {
+                        "data": "0x9f37092a0000000000000000000000002b1da4378d35d3cbd909ba41b4bfedae0a543aad0000000000000000000000000000000000000000000000000000000000000001",
+                        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                        "value": 150000000000000000
+                    }
+                },
+                {
+                    "id": "0x30D315b8E3915e7853Cd5b3511E24CaE97C87FE0-1",
+                    "title": "Double Cannon",
+                    "description": "I drew without thinking.\nThree years ago, I could not draw anything, but now I am able to give shape to what is cool inside me.\nI am happy. I will continue to draw.",
+                    "urls": {
+                        "glb": "https://nfts.snowx.com/0x30d315b8e3915e7853cd5b3511e24cae97c87fe0/1-artwork.glb",
+                        "thumbnail": "https://nfts.snowx.com/0x30d315b8e3915e7853cd5b3511e24cae97c87fe0/1-thumbnail.png"
+                    },
+                    "creator": {
+                        "name": "Hiyoko Shisho",
+                        "icon": "https://nfts.snowx.com/0x30d315b8e3915e7853cd5b3511e24cae97c87fe0/icon"
+                    },
+                    "owner": {
+                        "name": "0xCdd2B4b25953a392b9d7267364877A23aa34F152"
+                    },
+                    "attributes": null
+                }
+            ]
+        }
+    ]
+}
