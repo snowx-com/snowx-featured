@@ -6,10 +6,10 @@
     "collections": [
         {
             "collection": {
-                "title": "Favorite collection",
-                "description": "Favorite collection",
+                "title": "Featured artworks for CAWA",
+                "description": "Featured artworks for CAWA in Tokyo",
                 "icon": "https://nfts.snowx.com/0xf8f720207e99003eb72edd883aad613a493454de/icon",
-                "creator": "0x1234567890"
+                "creator": "SnowX"
             },
             "artworks": [
                 {
