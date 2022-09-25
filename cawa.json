@@ -6,10 +6,10 @@
     "collections": [
         {
             "collection": {
-                "title": "Featured artworks for CAWA",
-                "description": "Featured artworks for CAWA in Tokyo",
+                "title": "Favorite collection",
+                "description": "Favorite collection",
                 "icon": "https://nfts.snowx.com/0xf8f720207e99003eb72edd883aad613a493454de/icon",
-                "creator": "SnowX"
+                "creator": "0x1234567890"
             },
             "artworks": [
                 {
@@ -168,7 +168,23 @@
                     "owner": {
                         "name": "0xe054c0C913AAfc6a6755E7C25d01F98137C7dBD6"
                     },
-                    "attributes": null,
+                    "attributes": {
+                        "position": {
+                            "x": -58.26892,
+                            "y": 2.78844643,
+                            "z": 2.33597946
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 275.8284,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 2.588689,
+                            "y": 2.7522006,
+                            "z": 2.92596722
+                        }
+                    },
                     "price": "0.3",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
@@ -192,7 +208,23 @@
                     "owner": {
                         "name": "0xC9361824A434dDE9A4D78E3584be9A1c66f74166"
                     },
-                    "attributes": null
+                    "attributes": {
+                        "position": {
+                            "x": -64.93163,
+                            "y": 2.71570444,
+                            "z": -1.81861687
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 342.765869,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 2.804406,
+                            "y": 2.82012177,
+                            "z": 2.83505034
+                        }
+                    }
                 },
                 {
                     "id": "0xf8F720207E99003Eb72Edd883AAD613a493454dE-2",
@@ -209,7 +241,23 @@
                     "owner": {
                         "name": "0xC9361824A434dDE9A4D78E3584be9A1c66f74166"
                     },
-                    "attributes": null,
+                    "attributes": {
+                        "position": {
+                            "x": -74.21933,
+                            "y": 1.54022717,
+                            "z": -0.4832821
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 13.8487654,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 3.02649856,
+                            "y": 3.03094554,
+                            "z": 3.03529119
+                        }
+                    },
                     "price": "0.6",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
@@ -233,7 +281,23 @@
                     "owner": {
                         "name": "0xC9361824A434dDE9A4D78E3584be9A1c66f74166"
                     },
-                    "attributes": null,
+                    "attributes": {
+                        "position": {
+                            "x": -82.38196,
+                            "y": 1.65425086,
+                            "z": 0.472826
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 1.64004219,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 3.24346519,
+                            "y": 3.2436316,
+                            "z": 3.243793
+                        }
+                    },
                     "price": "0.6",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
@@ -257,7 +321,23 @@
                     "owner": {
                         "name": "0xC9361824A434dDE9A4D78E3584be9A1c66f74166"
                     },
-                    "attributes": null,
+                    "attributes": {
+                        "position": {
+                            "x": -89.14346,
+                            "y": 3.73017526,
+                            "z": -1.17029381
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 299.2191,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 3.439081,
+                            "y": 3.606285,
+                            "z": 3.77899623
+                        }
+                    },
                     "price": "0.2",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
@@ -281,7 +361,23 @@
                     "owner": {
                         "name": "0xDB6D71A5BD8b5299f5a111f686A23d0Fc4dB2a6C"
                     },
-                    "attributes": null
+                    "attributes": {
+                        "position": {
+                            "x": -97.51419,
+                            "y": 1.11036587,
+                            "z": -1.76604462
+                        },
+                        "rotation": {
+                            "x": 0,
+                            "y": 238.457626,
+                            "z": 0
+                        },
+                        "scale": {
+                            "x": 1.69554853,
+                            "y": 1.72712457,
+                            "z": 1.7590692
+                        }
+                    }
                 }
             ]
         }
