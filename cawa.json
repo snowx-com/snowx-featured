@@ -168,23 +168,6 @@
                     "owner": {
                         "name": "0xe054c0C913AAfc6a6755E7C25d01F98137C7dBD6"
                     },
-                    "attributes": {
-                        "position": {
-                            "x": -58.26892,
-                            "y": 2.78844643,
-                            "z": 2.33597946
-                        },
-                        "rotation": {
-                            "x": 0,
-                            "y": 275.8284,
-                            "z": 0
-                        },
-                        "scale": {
-                            "x": 2.588689,
-                            "y": 2.7522006,
-                            "z": 2.92596722
-                        }
-                    },
                     "price": "0.3",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
