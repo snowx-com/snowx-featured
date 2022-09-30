@@ -116,11 +116,6 @@
                     "owner": {
                         "name": "0xb07D9Cd3D2294EdE837de81647902Cd85A79BAD0"
                     },
-                    "attributes": {
-                        "position": {
-                            "x": 60
-                        }
-                    },
                     "price": "0.1",
                     "priceType": "ETH",
                     "purchaseTransactionData": {
