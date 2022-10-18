@@ -12,124 +12,86 @@
                 "creator": "SnowX"
             },
             "artworks": [
+     
                 {
-                        "id": "0x1D27162bcB0a00C9a9e92C24e168E5d9d6E7a3Ac-2",
-                        "title": "Tiger Time",
-                        "description": "The stage is set\nFour Tigers, each representing a season\n\nHeavy metal wheels of time spin relentlessly\nRestless Tigers of the Season Journey\nThrough the quarterlies\nA new Vision awaits \nready to Unfurl\n\nThose that are first to arrive \nWill seize the opportunity\nto be part of history\n\nAn era of new technologies \nThe beginning of a new era of art\nA monument to the beginnings\n\nGroundbreaking explorations of new media\nPreserve a piece of art history",
-                        "urls": {
-                            "glb": "https://nfts.snowx.com/0x1d27162bcb0a00c9a9e92c24e168e5d9d6e7a3ac/2-artwork.glb",
-                            "thumbnail": "https://nfts.snowx.com/0x1d27162bcb0a00c9a9e92c24e168e5d9d6e7a3ac/2-thumbnail.png"
-                        },
-                        "creator": {
-                            "name": "Arcane Talents",
-                            "icon": "https://nfts.snowx.com/0x1d27162bcb0a00c9a9e92c24e168e5d9d6e7a3ac/icon"
-                        },
-                        "owner": {
-                            "name": "0x3763D4B778cC179D009001C172adBBCec4A81b67"
-                        },
-                        "attributes": {
-                            "position": {
-                                "x": 0.2652351,
-                                "y": 0.104536533,
-                                "z": 0.152164221
-                            },
-                            "rotation": {
-                                "x": -7.659595e-7,
-                                "y": 232.429169,
-                                "z": -3.77141e-7
-                            },
-                            "scale": {
-                                "x": 1.16253364,
-                                "y": 1.20935023,
-                                "z": 1.25693476
-                            }
-                        },
-                        "price": "0.8",
-                        "priceType": "ETH",
-                        "purchaseTransactionData": {
-                            "data": "0x9f37092a0000000000000000000000001d27162bcb0a00c9a9e92c24e168e5d9d6e7a3ac0000000000000000000000000000000000000000000000000000000000000002",
-                            "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
-                            "value": 800000000000000000
-                        }
+                    "id": "0xB74FC906c1a93ce5907cb5dEa80822d5F784992d-2",
+                    "title": "Water is Life",
+                    "description": "A visualization of the Divine giving the gift of water, the base of all life. ",
+                    "urls": 
+                {
+                    "glb": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/2-artwork.glb",
+                    "thumbnail": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/2-thumbnail.png"
+                },
+                "creator": {
+                    "name": "Metatronix",
+                    "icon": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/icon"
+                },
+                "owner": {
+                    "name": "0x0F0fb9ACe2104F529e77833B1fC8f9882da20A2B"
+                },
+                "attributes": {
+                    "position": {
+                        "x": -0.204265878,
+                        "y": 0.07833387,
+                        "z": 0.169195414
                     },
-                {
-    "id": "0xB74FC906c1a93ce5907cb5dEa80822d5F784992d-2",
-    "title": "Water is Life",
-    "description": "A visualization of the Divine giving the gift of water, the base of all life. ",
-    "urls": {
-        "glb": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/2-artwork.glb",
-        "thumbnail": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/2-thumbnail.png"
-    },
-    "creator": {
-        "name": "Metatronix",
-        "icon": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/icon"
-    },
-    "owner": {
-        "name": "0x0F0fb9ACe2104F529e77833B1fC8f9882da20A2B"
-    },
-    "attributes": {
-        "position": {
-            "x": -0.204265878,
-            "y": 0.07833387,
-            "z": 0.169195414
-        },
-        "rotation": {
-            "x": 3.891085e-7,
-            "y": 305.7734,
-            "z": 7.599499e-7
-        },
-        "scale": {
-            "x": 0.9744275,
-            "y": 1.01536918,
-            "z": 1.05712152
-        }
-    },
-    "price": "0.0688",
-    "priceType": "ETH",
-    "purchaseTransactionData": {
-        "data": "0x9f37092a000000000000000000000000b74fc906c1a93ce5907cb5dea80822d5f784992d0000000000000000000000000000000000000000000000000000000000000002",
-        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
-        "value": 68800000000000000
-    }
-},
-                {
-    "id": "0xB74FC906c1a93ce5907cb5dEa80822d5F784992d-3",
-    "title": "Reciprocation ",
-    "description": "A visualization of positive and loving energy being reciprocated.",
-    "urls": {
-        "glb": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/3-artwork.glb",
-        "thumbnail": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/3-thumbnail.png"
-    },
-    "creator": {
-        "name": "Metatronix",
-        "icon": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/icon"
-    },
-    "owner": {
-        "name": "0x0F0fb9ACe2104F529e77833B1fC8f9882da20A2B"
-    },
-    "attributes": {
-        "position": {
-            "x": -0.0960488245,
-            "y": 0.0392465666,
-            "z": 0.336071
-        },
-        "rotation": {
-            "x": -0.0000033117492,
-            "y": 3.417259,
-            "z": -0.000003515403
-        },
-        "scale": {
-            "x": 1.31425226,
-            "y": 1.31437159,
-            "z": 1.31448781
-        }
-    },
-    "price": "0.051",
-    "priceType": "ETH",
-    "purchaseTransactionData": {
-        "data": "0x9f37092a000000000000000000000000b74fc906c1a93ce5907cb5dea80822d5f784992d0000000000000000000000000000000000000000000000000000000000000003",
-        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
-        "value": 51000000000000000
+                    "rotation": {
+                        "x": 3.891085e-7,
+                        "y": 305.7734,
+                        "z": 7.599499e-7
+                    },
+                    "scale": {
+                        "x": 0.9744275,
+                        "y": 1.01536918,
+                        "z": 1.05712152
+                    }
+                },
+                "price": "0.0688",
+                "priceType": "ETH",
+                "purchaseTransactionData": {
+                    "data": "0x9f37092a000000000000000000000000b74fc906c1a93ce5907cb5dea80822d5f784992d0000000000000000000000000000000000000000000000000000000000000002",
+                    "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                    "value": 68800000000000000
+                }
+            },
+                            {
+                "id": "0xB74FC906c1a93ce5907cb5dEa80822d5F784992d-3",
+                "title": "Reciprocation ",
+                "description": "A visualization of positive and loving energy being reciprocated.",
+                "urls": {
+                    "glb": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/3-artwork.glb",
+                    "thumbnail": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/3-thumbnail.png"
+                },
+                "creator": {
+                    "name": "Metatronix",
+                    "icon": "https://nfts.snowx.com/0xb74fc906c1a93ce5907cb5dea80822d5f784992d/icon"
+                },
+                "owner": {
+                    "name": "0x0F0fb9ACe2104F529e77833B1fC8f9882da20A2B"
+                },
+                "attributes": {
+                    "position": {
+                        "x": -0.0960488245,
+                        "y": 0.0392465666,
+                        "z": 0.336071
+                    },
+                    "rotation": {
+                        "x": -0.0000033117492,
+                        "y": 3.417259,
+                        "z": -0.000003515403
+                    },
+                    "scale": {
+                        "x": 1.31425226,
+                        "y": 1.31437159,
+                        "z": 1.31448781
+                    }
+                },
+                "price": "0.051",
+                "priceType": "ETH",
+                "purchaseTransactionData": {
+                    "data": "0x9f37092a000000000000000000000000b74fc906c1a93ce5907cb5dea80822d5f784992d0000000000000000000000000000000000000000000000000000000000000003",
+                    "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+                    "value": 51000000000000000
     }
 },
                 {
