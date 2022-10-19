@@ -504,6 +504,46 @@
     }
 },
 {
+    "id": "0x64Dd38fDf39b0eBb90B62420b0f17923aB677765-3",
+    "title": "Elephant Soldier ",
+    "description": "Elephant Soldiers and their friend snails protect Mystic Hot Springs for Exclamation Alien. ",
+    "urls": {
+        "glb": "https://nfts.snowx.com/0x64dd38fdf39b0ebb90b62420b0f17923ab677765/3-artwork.glb",
+        "thumbnail": "https://nfts.snowx.com/0x64dd38fdf39b0ebb90b62420b0f17923ab677765/3-thumbnail.jpg"
+    },
+    "creator": {
+        "name": "Orange Silver Lin.",
+        "icon": "https://nfts.snowx.com/0x64dd38fdf39b0ebb90b62420b0f17923ab677765/icon"
+    },
+    "owner": {
+        "name": "0x36C2e120D0E9Ac412811781ff13FcEcA6f0BaD26"
+    },
+    "attributes": {
+        "position": {
+            "x": -0.177290127,
+            "y": 0.217563167,
+            "z": -0.101416111
+        },
+        "rotation": {
+            "x": 0,
+            "y": 315.840118,
+            "z": 0
+        },
+        "scale": {
+            "x": 1.02977979,
+            "y": 1.03703809,
+            "z": 1.05060768
+        }
+    },
+    "price": "0.03",
+    "priceType": "ETH",
+    "purchaseTransactionData": {
+        "data": "0x9f37092a00000000000000000000000064dd38fdf39b0ebb90b62420b0f17923ab6777650000000000000000000000000000000000000000000000000000000000000003",
+        "to": "0x4f8CbF0b17cc6D5CF3D0E8Cf805428C07A0351Ad",
+        "value": 30000000000000000
+    }
+},
+{
     "id": "0x1c125C4BC12dFBbf9D71496CF4bdeF8097AC7b87-1",
     "title": "Spectral Hummingbird",
     "description": "Originally created for audio reactivity, this iridescent hummingbird changes colors and has wavy wings.",
@@ -577,6 +617,23 @@
     }
 },
 {
+    "id": "0x8a16C9a176eD2810f323bA499c201d614349D7F5-9",
+    "title": "Vitual Animals2",
+    "description": "Artwork by tipoo and hana, created exclusively for NFFT, depicting phantoms summoned into the digital world.\n",
+    "urls": {
+        "glb": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/9-artwork.glb",
+        "thumbnail": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/9-thumbnail.png"
+    },
+    "creator": {
+        "name": "hanahanaproduction",
+        "icon": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/icon"
+    },
+    "owner": {
+        "name": "0x9E82f3302084B846F71CcB4230b42340EF2ADFF3"
+    },
+    "attributes": null
+},
+{
     "id": "0x8a16C9a176eD2810f323bA499c201d614349D7F5-1",
     "title": "Surfing",
     "description": "The waves the surfers ride are way more energetic and cooler than normal!",
@@ -617,19 +674,36 @@
     }
 },
 {
-    "id": "0x8a16C9a176eD2810f323bA499c201d614349D7F5-9",
-    "title": "Vitual Animals2",
-    "description": "Artwork by tipoo and hana, created exclusively for NFFT, depicting phantoms summoned into the digital world.\n",
+    "id": "0x8a16C9a176eD2810f323bA499c201d614349D7F5-4",
+    "title": "Magma",
+    "description": "This artwork represents the energy of magma.",
     "urls": {
-        "glb": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/9-artwork.glb",
-        "thumbnail": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/9-thumbnail.png"
+        "glb": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/4-artwork.glb",
+        "thumbnail": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/4-thumbnail.png"
     },
     "creator": {
         "name": "hanahanaproduction",
         "icon": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/icon"
     },
     "owner": {
-        "name": "0x9E82f3302084B846F71CcB4230b42340EF2ADFF3"
+        "name": "0x3AbABCCeBcEED4cE2DD1922B1064661466D79bed"
+    },
+    "attributes": null
+},
+{
+    "id": "0x8a16C9a176eD2810f323bA499c201d614349D7F5-5",
+    "title": "Jupiter",
+    "description": "The center of Jupiter's atmosphere. Jupiter is constantly emitting energy.\n",
+    "urls": {
+        "glb": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/5-artwork.glb",
+        "thumbnail": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/5-thumbnail.png"
+    },
+    "creator": {
+        "name": "hanahanaproduction",
+        "icon": "https://nfts.snowx.com/0x8a16c9a176ed2810f323ba499c201d614349d7f5/icon"
+    },
+    "owner": {
+        "name": "0xD1150a0C22EE8d668B148E39c9B702da74964fd3"
     },
     "attributes": null
 }
